@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Documents\GeekBrains\Homework-2\Homework2_004\bin\Debug\net7.0\Homework2_004.exe
+C:\Users\Пользователь\Documents\GeekBrains\Homework-2\Homework2_004\bin\Debug\net7.0\Homework2_004.deps.json
+C:\Users\Пользователь\Documents\GeekBrains\Homework-2\Homework2_004\bin\Debug\net7.0\Homework2_004.runtimeconfig.json
+C:\Users\Пользователь\Documents\GeekBrains\Homework-2\Homework2_004\bin\Debug\net7.0\Homework2_004.dll
+C:\Users\Пользователь\Documents\GeekBrains\Homework-2\Homework2_004\bin\Debug\net7.0\Homework2_004.pdb
+C:\Users\Пользователь\Documents\GeekBrains\Homework-2\Homework2_004\obj\Debug\net7.0\Homework2_004.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Documents\GeekBrains\Homework-2\Homework2_004\obj\Debug\net7.0\Homework2_004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Documents\GeekBrains\Homework-2\Homework2_004\obj\Debug\net7.0\Homework2_004.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Documents\GeekBrains\Homework-2\Homework2_004\obj\Debug\net7.0\Homework2_004.AssemblyInfo.cs
+C:\Users\Пользователь\Documents\GeekBrains\Homework-2\Homework2_004\obj\Debug\net7.0\Homework2_004.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\GeekBrains\Homework-2\Homework2_004\obj\Debug\net7.0\Homework2_004.dll
+C:\Users\Пользователь\Documents\GeekBrains\Homework-2\Homework2_004\obj\Debug\net7.0\refint\Homework2_004.dll
+C:\Users\Пользователь\Documents\GeekBrains\Homework-2\Homework2_004\obj\Debug\net7.0\Homework2_004.pdb
+C:\Users\Пользователь\Documents\GeekBrains\Homework-2\Homework2_004\obj\Debug\net7.0\Homework2_004.genruntimeconfig.cache
+C:\Users\Пользователь\Documents\GeekBrains\Homework-2\Homework2_004\obj\Debug\net7.0\ref\Homework2_004.dll
